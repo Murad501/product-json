@@ -1,0 +1,302 @@
+[
+  {
+    "id": "987654",
+    "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+    "description": "Fabrilife Men's Premium Quality t-shirt offers a much smoother, silky feel and more structured, mid-weight fit than regular t-shirts. The t-shirts are made with the finest quality Combed Compact Cotton, which features astonishing ~175 GSM on just 26's cotton, giving a smooth and compact construction. The compact finish guarantees that the t-shirt length and width will not change over wash or months of usage.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "T-Shirt",
+    "subcategory": "Clothes",
+    "brand": "RISOSI",
+    "manufacturer": "RISOSI",
+    "model_number": "WB2000",
+    "upc": "123456789012",
+    "sku": "RISOSI-WB2000",
+    "gtin": "98765432109876",
+    "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour 2"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Wireless Earbuds Video"
+      }
+    ],
+    "stock": {
+      "quantity": 50,
+      "min_order_quantity": 1,
+      "max_order_quantity": 5,
+      "availability": "In Stock",
+      "backorder": false,
+      "preorder": false,
+      "expected_availability_date": null
+    },
+    "reviews": [
+      {
+        "user_id": "user_id_1",
+        "username": "JaneDoe",
+        "rating": 4,
+        "title": "Great Material Quality",
+        "description": "I love this t-shirt! The material is soft and comfortable, and the fit is perfect. I also appreciate the stylish design and quality construction. Overall, I would definitely recommend this shirt to anyone looking for a comfortable and stylish wardrobe staple.",
+        "date": "2023-05-01"
+      },
+      {
+        "user_id": "user_id_2",
+        "username": "JohnSmith",
+        "rating": 5,
+        "title": "Highly Recommend",
+        "description": "I love this t-shirt! The material is soft and comfortable, and the fit is perfect. I also appreciate the stylish design and quality construction. Overall, I would definitely recommend this shirt to anyone looking for a comfortable and stylish wardrobe staple.",
+        "date": "2023-05-05"
+      }
+    ],
+    "related_products": [
+      {
+        "id": "987655",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 79.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      },
+      {
+        "id": "987656",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 99.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      }
+    ],
+    "recommended_products": [
+      {
+        "id": "987655",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 29.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      },
+      {
+        "id": "987656",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 199.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      }
+    ],
+    "metadata": {
+      "created_at": "2023-04-15T14:30:00Z",
+      "updated_at": "2023-04-30T10:45:00Z",
+      "published_at": "2023-04-30T10:45:00Z",
+      "is_featured": true,
+      "is_new": false,
+      "is_sale": true,
+      "sale_percentage": 20
+    }
+  },
+  {
+    "id": "987655",
+    "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+    "description": "Fabrilife Men's Premium Quality t-shirt offers a much smoother, silky feel and more structured, mid-weight fit than regular t-shirts. The t-shirts are made with the finest quality Combed Compact Cotton, which features astonishing ~175 GSM on just 26's cotton, giving a smooth and compact construction. The compact finish guarantees that the t-shirt length and width will not change over wash or months of usage.",
+    "price": 39.49,
+    "currency": "USD",
+    "category": "T-Shirt",
+    "subcategory": "Clothes",
+    "brand": "RISOSI",
+    "manufacturer": "RISOSI",
+    "model_number": "WB2000",
+    "upc": "123456789012",
+    "sku": "RISOSI-WB2000",
+    "gtin": "98765432109876",
+    "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour 2"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Wireless Earbuds Video"
+      }
+    ],
+    "stock": {
+      "quantity": 30,
+      "min_order_quantity": 1,
+      "max_order_quantity": 5,
+      "availability": "In Stock",
+      "backorder": false,
+      "preorder": false,
+      "expected_availability_date": null
+    },
+    "reviews": [
+      {
+        "user_id": "user_id_1",
+        "username": "JaneDoe",
+        "rating": 4,
+        "title": "Great Material Quality",
+        "description": "I love this t-shirt! The material is soft and comfortable, and the fit is perfect. I also appreciate the stylish design and quality construction. Overall, I would definitely recommend this shirt to anyone looking for a comfortable and stylish wardrobe staple.",
+        "date": "2023-05-01"
+      },
+      {
+        "user_id": "user_id_2",
+        "username": "JohnSmith",
+        "rating": 5,
+        "title": "Highly Recommend",
+        "description": "I love this t-shirt! The material is soft and comfortable, and the fit is perfect. I also appreciate the stylish design and quality construction. Overall, I would definitely recommend this shirt to anyone looking for a comfortable and stylish wardrobe staple.",
+        "date": "2023-05-05"
+      }
+    ],
+    "related_products": [
+      {
+        "id": "987654",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 71.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      },
+      {
+        "id": "987656",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 39.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      }
+    ],
+    "recommended_products": [
+      {
+        "id": "987654",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 59.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      },
+      {
+        "id": "987654",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 51.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      }
+    ],
+    "metadata": {
+      "created_at": "2023-04-15T14:30:00Z",
+      "updated_at": "2023-04-30T10:45:00Z",
+      "published_at": "2023-04-30T10:45:00Z",
+      "is_featured": true,
+      "is_new": false,
+      "is_sale": true,
+      "sale_percentage": 20
+    }
+  },
+  {
+    "id": "987656",
+    "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+    "description": "Fabrilife Men's Premium Quality t-shirt offers a much smoother, silky feel and more structured, mid-weight fit than regular t-shirts. The t-shirts are made with the finest quality Combed Compact Cotton, which features astonishing ~175 GSM on just 26's cotton, giving a smooth and compact construction. The compact finish guarantees that the t-shirt length and width will not change over wash or months of usage.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "T-Shirt",
+    "subcategory": "Clothes",
+    "brand": "RISOSI",
+    "manufacturer": "RISOSI",
+    "model_number": "WB2000",
+    "upc": "123456789012",
+    "sku": "RISOSI-WB2000",
+    "gtin": "98765432109876",
+    "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour 2"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80",
+        "alt": "Wireless Earbuds Video"
+      }
+    ],
+    "stock": {
+      "quantity": 50,
+      "min_order_quantity": 1,
+      "max_order_quantity": 5,
+      "availability": "In Stock",
+      "backorder": false,
+      "preorder": false,
+      "expected_availability_date": null
+    },
+    "reviews": [
+      {
+        "user_id": "user_id_1",
+        "username": "JaneDoe",
+        "rating": 4,
+        "title": "Great Material Quality",
+        "description": "I love this t-shirt! The material is soft and comfortable, and the fit is perfect. I also appreciate the stylish design and quality construction. Overall, I would definitely recommend this shirt to anyone looking for a comfortable and stylish wardrobe staple.",
+        "date": "2023-05-01"
+      },
+      {
+        "user_id": "user_id_2",
+        "username": "JohnSmith",
+        "rating": 5,
+        "title": "Highly Recommend",
+        "description": "I love this t-shirt! The material is soft and comfortable, and the fit is perfect. I also appreciate the stylish design and quality construction. Overall, I would definitely recommend this shirt to anyone looking for a comfortable and stylish wardrobe staple.",
+        "date": "2023-05-05"
+      }
+    ],
+    "related_products": [
+      {
+        "id": "987654",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 59.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      },
+      {
+        "id": "987655",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 93.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      }
+    ],
+    "recommended_products": [
+      {
+        "id": "987654",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 25.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      },
+      {
+        "id": "987655",
+        "name": "Fabrilife Mens Premium Designer Edition T Shirt - Endeavour",
+        "price": 129.99,
+        "currency": "USD",
+        "image_url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=503&q=80"
+      }
+    ],
+    "metadata": {
+      "created_at": "2023-04-15T14:30:00Z",
+      "updated_at": "2023-04-30T10:45:00Z",
+      "published_at": "2023-04-30T10:45:00Z",
+      "is_featured": true,
+      "is_new": false,
+      "is_sale": true,
+      "sale_percentage": 20
+    }
+  }
+]
